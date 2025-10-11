@@ -1,11 +1,12 @@
 <!-- 🌌 Banner Futurista -->
 <p align="center">
-  <img src="https://files.openai.com/file-00000000ef14620e84c91d3f08a7bc56" width="100%" alt="Kromilla Futurista Hacker Banner"/>
+ <img src="https://github.com/Kromilla/Kromilla/blob/main/Imagen/ChatGPT%20Image%2011%20oct%202025%2C%2011_13_44.png?raw=true" width="100%" alt="Kromilla Futurista Hacker Banner"/>
+
 </p>
 
-<!-- Encabezado -->
-<h1 align="center">⚡ Hola, soy <span style="color:#00FFC6;">Carlos Alfredo Ibañez Ortiz</span></h1>
-<h3 align="center">👨‍💻 Desarrollador Backend | Automatización | Bots Inteligentes</h3>
+<!-- Encabezado Principal -->
+<h1 align="center" style="font-size:2.3em;">⚡ Hola, soy <span style="color:#00FFC6;">Carlos Alfredo Ibañez Ortiz</span></h1>
+<h3 align="center" style="font-weight:normal;">👨‍💻 Desarrollador Backend | Automatización | Bots Inteligentes</h3>
 
 ---
 
@@ -14,14 +15,15 @@
 💻 Estudiante de **Ingeniería de Sistemas**  
 🤖 Apasionado por los **bots, la automatización y la inteligencia artificial**  
 🚀 Enfocado en crear soluciones **eficientes, escalables y limpias**  
-⚡ Buscando siempre aprender algo nuevo cada día  
+🧩 Explorando constantemente **integraciones entre plataformas**  
+⚡ Buscando siempre **aprender algo nuevo cada día**
 
 ---
 
 ### ⚙️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,js,python,github,vscode,telegram,discord,postman,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,js,python,github,vscode,telegram,discord,postman,git,linux,powershell&perline=8" />
 </p>
 
 ---
@@ -47,6 +49,9 @@
 🤖 [**BotV2-WhatsApp**](https://github.com/Kromilla/BotV2-WhatsApp-Backup) *(Privado)*  
 > Bot avanzado que integra **WhatsApp, Telegram y Discord** mediante una API intermedia.
 
+📊 [**Análisis Power BI - Colombia**](#)  
+> Dashboard interactivo de **datos de homicidios en Colombia**: tipos, armas, géneros y regiones.
+
 ---
 
 ### 🌐 Conéctate conmigo
@@ -55,14 +60,26 @@
   <a href="mailto:carlos.ibanez.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Kromilla"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://t.me/Kromilla"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
 ---
 
 ### 💬 Frase del Día
-> “El código perfecto no existe, pero la mejora constante sí.” ⚙️
+> “El código perfecto no existe, pero la mejora constante sí.” ⚙️  
+> <sub><i>— Kromilla</i></sub>
 
 ---
+
+<!-- 🌌 Footer -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kromilla&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://files.openai.com/file-00000000ef14620e84c91d3f08a7bc56" width="100%" alt="Kromilla Futurista Footer"/>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kromilla&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge"/>
