@@ -95,48 +95,89 @@ const carlos = {
 
 <table>
 <tr>
-  <td width="50%">
+  <td width="50%" valign="top">
     <h3 align="center">🚲 EasyBici</h3>
     <div align="center">
       <a href="https://github.com/Kromilla/EasyBici" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kromilla&repo=EasyBici&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="EasyBici"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kromilla&repo=EasyBici&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&icon_color=00FFC6&text_color=C9D1D9" alt="EasyBici"/>
       </a>
-      <p>
-        <strong>Stack:</strong> Node.js, SQLite, Express<br>
-        Sistema de gestión de bicicletas con base de datos relacional y análisis de datos.
+      <br><br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      </p>
+      <p align="center">
+        Sistema de gestión de bicicletas con base de datos relacional y análisis de datos. Incluye CRUD completo, reportes y estadísticas.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Kromilla/EasyBici" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Código-00FFC6?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
       </p>
     </div>
   </td>
-  <td width="50%">
+  <td width="50%" valign="top">
     <h3 align="center">🤖 BotV2 Multi-Plataforma</h3>
     <div align="center">
-      <img src="https://img.shields.io/badge/Status-Private-red?style=for-the-badge"/>
-      <p>
-        <strong>Stack:</strong> Node.js, WhatsApp API, Telegram Bot API, Discord.js<br>
-        Bot avanzado que integra <strong>WhatsApp, Telegram y Discord</strong> mediante una API intermedia con IA.
+      <img src="https://img.shields.io/badge/STATUS-PRIVATE-FF4444?style=for-the-badge&labelColor=1a1b27"/>
+      <br><br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
+      <p align="center">
+        Bot avanzado que integra <strong>WhatsApp, Telegram y Discord</strong> mediante una API intermedia con IA. Comandos personalizados, moderación y respuestas inteligentes.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🔒%20Repositorio%20Privado-1a1b27?style=for-the-badge"/>
       </p>
     </div>
   </td>
 </tr>
 <tr>
-  <td width="50%">
-    <h3 align="center">📊 Dashboard Power BI</h3>
+  <td width="50%" valign="top">
+    <h3 align="center">📊 Dashboard Power BI - Colombia</h3>
     <div align="center">
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-      <p>
-        <strong>Stack:</strong> Power BI, DAX, SQL<br>
-        Dashboard interactivo de análisis de datos de homicidios en Colombia: tipos, armas, géneros y regiones.
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=1a1b27"/>
+      <br><br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+      </p>
+      <p align="center">
+        Dashboard interactivo de análisis de datos de homicidios en Colombia. Incluye visualizaciones por tipos, armas, géneros y regiones con filtros dinámicos.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Data%20Analytics-00FFC6?style=for-the-badge&logoColor=black"/>
       </p>
     </div>
   </td>
-  <td width="50%">
+  <td width="50%" valign="top">
     <h3 align="center">🚀 Más Proyectos</h3>
     <div align="center">
+      <br>
       <a href="https://github.com/Kromilla?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Todos%20los%20Repositorios-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://github.com/Kromilla.png" width="120" style="border-radius:50%"/>
       </a>
-      <p>
-        Explora más de mis proyectos y contribuciones en mi perfil de GitHub.
+      <br><br>
+      <p align="center">
+        Explora más de mis proyectos y contribuciones en mi perfil de GitHub. Encontrarás más bots, APIs, scripts de automatización y herramientas útiles.
+      </p>
+      <br>
+      <p align="center">
+        <a href="https://github.com/Kromilla?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/VER%20TODOS%20LOS%20REPOSITORIOS-00FFC6?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Kromilla?style=social"/>
+        <img src="https://img.shields.io/github/followers/Kromilla?style=social"/>
       </p>
     </div>
   </td>
