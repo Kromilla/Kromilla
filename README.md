@@ -188,54 +188,135 @@ const carlos = {
 
 ### 🌐 Conéctate conmigo
 
-<p align="center">
-  <a href="mailto:carlos.ibanez.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Kromilla">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tuusuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/Kromilla">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://discord.com/users/tuusuario">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.ibanez.dev@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kromilla)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
+  [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kromilla)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tuusuario)
+  
+</div>
 
-<p align="center">
-  <i>💬 Abierto a colaboraciones, proyectos interesantes y oportunidades laborales</i>
-</p>
+<div align="center">
+  
+  ### 💼 ¿Buscas colaborar en un proyecto?
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br>
+        <b>Desarrollo Backend</b><br>
+        <sub>APIs REST, Microservicios, Databases</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/000000/bot.png" width="60"/><br>
+        <b>Bots Inteligentes</b><br>
+        <sub>WhatsApp, Telegram, Discord + IA</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/000000/automation.png" width="60"/><br>
+        <b>Automatización</b><br>
+        <sub>Scripts, Workflows, Integraciones</sub>
+      </td>
+    </tr>
+  </table>
+  
+  **📧 Envíame un mensaje y trabajemos juntos**
+  
+  <img src="https://img.shields.io/badge/Estado-Disponible%20para%20freelance-00FFC6?style=for-the-badge&logo=freelancer&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Respuesta-En%2024%20horas-success?style=for-the-badge&logo=gmail&logoColor=white"/>
+  
+</div>
 
 ---
 
 ### 💬 Frase del Día
-> "El código perfecto no existe, pero la mejora constante sí." ⚙️  
-> <sub><i>— Kromilla</i></sub>
+
+<div align="center">
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El%20código%20perfecto%20no%20existe,%20pero%20la%20mejora%20constante%20sí.&author=Kromilla" alt="Quote"/>
+  
+</div>
 
 ---
 
-### 📈 Actividad Reciente
+### 📈 Actividad Reciente en GitHub
 
+<div align="center">
+  
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+<!-- Mientras tanto, aquí están mis últimas contribuciones -->
+<a href="https://github.com/Kromilla">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area=true&custom_title=Contribuciones%20Recientes" width="98%" alt="Activity Graph"/>
+</a>
+
+</div>
+
 ---
 
-<!-- 🌌 Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=20&fontColor=fff&animation=twinkling"/>
-</p>
+<!-- 🌌 Footer Mejorado -->
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20✨&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+  
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kromilla&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Kromilla?label=Seguidores&style=for-the-badge&color=00FFC6&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/stars/Kromilla?label=Estrellas%20Totales&style=for-the-badge&color=blueviolet&labelColor=0D1117"/>
-</p>
-
-<p align="center">
-  <i>⭐ Si te gusta mi trabajo, no olvides dar una estrella a mis repositorios ⭐</i>
-</p>
+<div align="center">
+  
+  ### 📊 Estadísticas del Perfil
+  
+  ![Visitas al perfil](https://komarev.com/ghpvc/?username=Kromilla&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge)
+  ![Seguidores](https://img.shields.io/github/followers/Kromilla?label=Seguidores&style=for-the-badge&color=00FFC6&labelColor=0D1117)
+  ![Estrellas](https://img.shields.io/github/stars/Kromilla?label=Estrellas%20Totales&style=for-the-badge&color=blueviolet&labelColor=0D1117)
+  
+  <br>
+  
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/star.png" width="30"/>
+        <br>
+        <b>⭐ Dale estrella</b>
+        <br>
+        <sub>a mis repos</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/user-group-man-man.png" width="30"/>
+        <br>
+        <b>👥 Sígueme</b>
+        <br>
+        <sub>en GitHub</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/share.png" width="30"/>
+        <br>
+        <b>🔗 Comparte</b>
+        <br>
+        <sub>mi perfil</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/handshake.png" width="30"/>
+        <br>
+        <b>🤝 Colabora</b>
+        <br>
+        <sub>conmigo</sub>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  ---
+  
+  <sub>💻 Hecho con ❤️ por <a href="https://github.com/Kromilla">@Kromilla</a></sub>
+  <br>
+  <sub>⚡ Siempre aprendiendo, siempre mejorando</sub>
+  
+  <br><br>
+  
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+  
+</div>
