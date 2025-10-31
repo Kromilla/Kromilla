@@ -282,29 +282,41 @@ const carlos = {
   
   <table align="center">
     <tr>
-      <td align="center">
-        <h3>⭐</h3>
+      <td align="center" width="25%">
+        <br>
+        <h1>⭐</h1>
+        <br>
         <b>Dale estrella</b>
         <br>
-        <sub>a mis repos</sub>
+        <sub>a mis repositorios</sub>
+        <br><br>
       </td>
-      <td align="center">
-        <h3>👥</h3>
+      <td align="center" width="25%">
+        <br>
+        <h1>👥</h1>
+        <br>
         <b>Sígueme</b>
         <br>
         <sub>en GitHub</sub>
+        <br><br>
       </td>
-      <td align="center">
-        <h3>🔗</h3>
+      <td align="center" width="25%">
+        <br>
+        <h1>🔗</h1>
+        <br>
         <b>Comparte</b>
         <br>
         <sub>mi perfil</sub>
+        <br><br>
       </td>
-      <td align="center">
-        <h3>🤝</h3>
+      <td align="center" width="25%">
+        <br>
+        <h1>🤝</h1>
+        <br>
         <b>Colabora</b>
         <br>
         <sub>conmigo</sub>
+        <br><br>
       </td>
     </tr>
   </table>
