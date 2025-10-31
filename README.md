@@ -205,19 +205,25 @@ const carlos = {
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br>
+        <br>
+        <h2>💻</h2>
         <b>Desarrollo Backend</b><br>
         <sub>APIs REST, Microservicios, Databases</sub>
+        <br><br>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/bot.png" width="60"/><br>
+        <br>
+        <h2>🤖</h2>
         <b>Bots Inteligentes</b><br>
         <sub>WhatsApp, Telegram, Discord + IA</sub>
+        <br><br>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/automation.png" width="60"/><br>
+        <br>
+        <h2>⚡</h2>
         <b>Automatización</b><br>
         <sub>Scripts, Workflows, Integraciones</sub>
+        <br><br>
       </td>
     </tr>
   </table>
@@ -277,30 +283,26 @@ const carlos = {
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/star.png" width="30"/>
-        <br>
-        <b>⭐ Dale estrella</b>
+        <h3>⭐</h3>
+        <b>Dale estrella</b>
         <br>
         <sub>a mis repos</sub>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/user-group-man-man.png" width="30"/>
-        <br>
-        <b>👥 Sígueme</b>
+        <h3>👥</h3>
+        <b>Sígueme</b>
         <br>
         <sub>en GitHub</sub>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/share.png" width="30"/>
-        <br>
-        <b>🔗 Comparte</b>
+        <h3>🔗</h3>
+        <b>Comparte</b>
         <br>
         <sub>mi perfil</sub>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/handshake.png" width="30"/>
-        <br>
-        <b>🤝 Colabora</b>
+        <h3>🤝</h3>
+        <b>Colabora</b>
         <br>
         <sub>conmigo</sub>
       </td>
