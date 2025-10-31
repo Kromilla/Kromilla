@@ -67,22 +67,27 @@ const carlos = {
 
 ---
 
-### 📊 Mis Estadísticas
+### 📊 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kromilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Kromilla&theme=tokyonight&hide_border=true&background=0D1117&fire=00FFC6&ring=00FFC6" height="170" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kromilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&icon_color=00FFC6&text_color=C9D1D9&ring_color=00FFC6" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Kromilla&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFC6&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6&sideNums=00FFC6&currStreakNum=00FFC6&dates=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kromilla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="170" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF" height="170"/>
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kromilla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&text_color=C9D1D9&langs_count=8&hide=html,css" alt="Top Languages"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Kromilla&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&text_color=C9D1D9&ring_color=00FFC6&combine_all_yearly_contributions=true" alt="Contributor Stats"/>
+</div>
+
+<!-- Gráfico de Contribuciones -->
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&custom_title=Gráfico%20de%20Contribuciones&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area_color=00FFC6&area=true&hide_border=true&title_color=00FFC6" alt="Contribution Graph"/>
+</div>
 
 <!-- Trofeos de GitHub -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kromilla&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Kromilla&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" alt="GitHub Trophies"/>
+</div>
 
 ---
 
