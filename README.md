@@ -1,336 +1,273 @@
-<!-- 🌌 Banner Futurista -->
-<p align="center">
- <img src="https://github.com/Kromilla/Kromilla/blob/main/Imagen/ChatGPT%20Image%2011%20oct%202025%2C%2011_13_44.png?raw=true" width="100%" alt="Kromilla Futurista Hacker Banner"/>
-</p>
+<div align="center">
 
-<!-- Encabezado Principal con Animación de Escritura -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=⚡+Hola%2C+soy+Carlos+Alfredo+Ibañez+Ortiz;Backend+Developer+%7C+Automation+%7C+AI+Bots" alt="Typing SVG" />
-</h1>
+# 💫 Carlos Alfredo Ibañez Ortiz
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Enfoque-Backend%20Development-00FFC6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Especialidad-Bot%20Development-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Estado-Open%20to%20Work-success?style=for-the-badge"/>
-</p>
+### Backend Developer | Automation Engineer | AI Bot Specialist
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+scalable+backend+systems;Creating+intelligent+multi-platform+bots;Automating+workflows+and+processes)](https://git.io/typing-svg)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos15.ci15@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kromilla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ibañez-a476b4265)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kromilla)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kromilla&label=Profile%20Views&color=00FFC6&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Kromilla?label=Followers&style=flat-square&color=00FFC6)
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 🧠 Sobre mí
+## 👨‍💻 About Me
 
 ```typescript
 const carlos = {
-    estudiante: "Ingeniería de Sistemas",
-    especialización: ["Backend", "Automatización", "Bots IA"],
-    enfoque: "Soluciones eficientes y escalables",
-    pasiones: ["Integración de plataformas", "Clean Code", "Aprendizaje continuo"],
-    actualmenteAprendiendo: ["Microservicios", "Docker", "Cloud Computing"],
-    objetivos2025: ["Contribuir a Open Source", "Certificaciones", "Proyecto SaaS"]
+    role: "Backend Developer & Systems Engineering Student",
+    location: "🇨🇴 Colombia",
+    specialization: ["Backend Development", "Automation", "AI Bots"],
+    focus: "Building efficient, scalable solutions",
+    passions: ["Platform Integration", "Clean Code", "Continuous Learning"],
+    currentlyLearning: ["Microservices Architecture", "Docker", "Cloud Computing"],
+    goals2025: ["Open Source Contributions", "Professional Certifications", "SaaS Project Launch"],
+    availability: "Open for freelance & collaboration"
 };
 ```
 
-**🎯 En qué estoy enfocado:**
-- 💻 Desarrollo de sistemas backend robustos y escalables
-- 🤖 Creación de bots inteligentes multi-plataforma
-- 🔄 Automatización de procesos y workflows
-- 🌐 Integración de APIs y servicios externos
-- 📊 Análisis de datos y visualización
+### 🎯 What I Do
+
+- 🏗️ **Backend Development** - Building robust and scalable server-side applications
+- 🤖 **AI Bot Development** - Creating intelligent multi-platform bots (WhatsApp, Telegram, Discord)
+- ⚙️ **Process Automation** - Streamlining workflows and automating repetitive tasks
+- 🔌 **API Integration** - Connecting services and building RESTful APIs
+- 📊 **Data Analysis** - Processing and visualizing data for insights
 
 ---
 
-### ⚙️ Stack Tecnológico
-
-#### 🚀 Lenguajes & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,express&theme=dark" />
-</p>
-
-#### 🗄️ Bases de Datos & Almacenamiento
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,redis&theme=dark" />
-</p>
-
-#### 🛠️ Herramientas & Plataformas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,powershell,discord&theme=dark" />
-</p>
-
-#### 🤖 Integraciones & APIs
-<p align="center">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
----
-
-### 📊 Mis Estadísticas de GitHub
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kromilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&icon_color=00FFC6&text_color=C9D1D9&ring_color=00FFC6" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Kromilla&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFC6&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6&sideNums=00FFC6&currStreakNum=00FFC6&dates=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak"/>
+
+### Languages & Runtimes
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Integrations & APIs
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kromilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&icon_color=00FFC6&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Kromilla&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFC6&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kromilla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&text_color=C9D1D9&langs_count=8&hide=html,css" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Kromilla&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&text_color=C9D1D9&ring_color=00FFC6&combine_all_yearly_contributions=true" alt="Contributor Stats"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Kromilla&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&text_color=C9D1D9" alt="Contributor Stats"/>
 </div>
 
-<!-- Gráfico de Contribuciones -->
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&custom_title=Gráfico%20de%20Contribuciones&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area_color=00FFC6&area=true&hide_border=true&title_color=00FFC6" alt="Contribution Graph"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&custom_title=Contribution%20Activity&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area_color=00FFC6&area=true&hide_border=true&title_color=00FFC6" alt="Contribution Graph"/>
 </div>
 
-<!-- Trofeos de GitHub -->
 <div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Kromilla&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" alt="GitHub Trophies"/>
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Kromilla&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&title=Commits,Stars,Followers,PullRequest" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-### 🧩 Proyectos Destacados
+## 🚀 Featured Projects
 
 <table>
 <tr>
   <td width="50%" valign="top">
-    <h3 align="center">🚲 EasyBici</h3>
-    <div align="center">
-      <a href="https://github.com/Kromilla/EasyBici" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kromilla&repo=EasyBici&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&icon_color=00FFC6&text_color=C9D1D9" alt="EasyBici"/>
+    <h3 align="center">🚲 <a href="https://github.com/Kromilla/EasyBici">EasyBici</a></h3>
+    <p align="center"><strong>Bicycle Management System</strong></p>
+    <p align="center">
+      A comprehensive bike management system with relational database, complete CRUD operations, and statistical reporting capabilities.
+    </p>
+    <p align="center"><strong>Tech Stack:</strong></p>
+    <p align="center">
+      • Node.js + Express.js<br>
+      • SQLite Database<br>
+      • RESTful API Design
+    </p>
+    <p align="center">
+      <a href="https://github.com/Kromilla/EasyBici">
+        <img src="https://img.shields.io/badge/View_Code-00FFC6?style=for-the-badge&logo=github&logoColor=black" alt="View Code"/>
       </a>
-      <br><br>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-      </p>
-      <p align="center">
-        Sistema de gestión de bicicletas con base de datos relacional y análisis de datos. Incluye CRUD completo, reportes y estadísticas.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Kromilla/EasyBici" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Código-00FFC6?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </p>
-    </div>
+    </p>
   </td>
   <td width="50%" valign="top">
-    <h3 align="center">🤖 BotV2 Multi-Plataforma</h3>
-    <div align="center">
-      <img src="https://img.shields.io/badge/STATUS-PRIVATE-FF4444?style=for-the-badge&labelColor=1a1b27"/>
-      <br><br>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-      </p>
-      <p align="center">
-        Bot avanzado que integra <strong>WhatsApp, Telegram y Discord</strong> mediante una API intermedia con IA. Comandos personalizados, moderación y respuestas inteligentes.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/🔒%20Repositorio%20Privado-1a1b27?style=for-the-badge"/>
-      </p>
-    </div>
+    <h3 align="center">🤖 Multi-Platform Bot Framework</h3>
+    <p align="center"><strong>AI-Powered Bot System</strong> 🔒 <em>Private Repository</em></p>
+    <p align="center">
+      Advanced bot framework integrating <strong>WhatsApp, Telegram, and Discord</strong> through an intermediary API powered by OpenAI. Features custom commands, automated moderation, and intelligent responses.
+    </p>
+    <p align="center"><strong>Tech Stack:</strong></p>
+    <p align="center">
+      • Node.js Backend<br>
+      • WhatsApp Business API<br>
+      • Telegram Bot API<br>
+      • Discord.js<br>
+      • OpenAI Integration
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/STATUS-PRIVATE-FF4444?style=for-the-badge" alt="Private Status"/>
+    </p>
   </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
-    <h3 align="center">📊 Dashboard Power BI - Colombia</h3>
-    <div align="center">
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=1a1b27"/>
-      <br><br>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-      </p>
-      <p align="center">
-        Dashboard interactivo de análisis de datos de homicidios en Colombia. Incluye visualizaciones por tipos, armas, géneros y regiones con filtros dinámicos.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Data%20Analytics-00FFC6?style=for-the-badge&logoColor=black"/>
-      </p>
-    </div>
+    <h3 align="center">📊 Power BI - Colombia Analytics Dashboard</h3>
+    <p align="center"><strong>Interactive Data Analytics Dashboard</strong></p>
+    <p align="center">
+      Comprehensive dashboard analyzing homicide data in Colombia with interactive visualizations, dynamic filters, and regional breakdowns.
+    </p>
+    <p align="center"><strong>Tech Stack:</strong></p>
+    <p align="center">
+      • Power BI<br>
+      • DAX Formulas<br>
+      • SQL Queries<br>
+      • Data Modeling
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+    </p>
   </td>
   <td width="50%" valign="top">
-    <h3 align="center">🚀 Más Proyectos</h3>
-    <div align="center">
-      <br>
-      <a href="https://github.com/Kromilla?tab=repositories" target="_blank">
-        <img src="https://github.com/Kromilla.png" width="120" style="border-radius:50%"/>
+    <h3 align="center">🔧 Other Projects</h3>
+    <p align="center">Explore my other repositories for:</p>
+    <p align="center">
+      🤖 Additional bot implementations<br>
+      🔌 API integrations and wrappers<br>
+      ⚙️ Automation scripts and tools<br>
+      🛠️ Utility libraries and helpers
+    </p>
+    <p align="center">
+      <a href="https://github.com/Kromilla?tab=repositories">
+        <img src="https://img.shields.io/badge/View_All_Repositories-00FFC6?style=for-the-badge&logo=github&logoColor=black" alt="View All Repositories"/>
       </a>
-      <br><br>
-      <p align="center">
-        Explora más de mis proyectos y contribuciones en mi perfil de GitHub. Encontrarás más bots, APIs, scripts de automatización y herramientas útiles.
-      </p>
-      <br>
-      <p align="center">
-        <a href="https://github.com/Kromilla?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/VER%20TODOS%20LOS%20REPOSITORIOS-00FFC6?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Kromilla?style=social"/>
-        <img src="https://img.shields.io/github/followers/Kromilla?style=social"/>
-      </p>
-    </div>
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/github/stars/Kromilla?style=social" alt="Stars"/>
+      <img src="https://img.shields.io/github/followers/Kromilla?style=social" alt="Followers"/>
+    </p>
   </td>
 </tr>
 </table>
 
 ---
 
-### 🌐 Conéctate conmigo
+## 💼 Services & Collaboration
 
 <div align="center">
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.ibanez.dev@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kromilla)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
-  [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kromilla)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tuusuario)
-  
-</div>
 
-<div align="center">
-  
-  ### 💼 ¿Buscas colaborar en un proyecto?
-  
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <br>
-        <h2>💻</h2>
-        <b>Desarrollo Backend</b><br>
-        <sub>APIs REST, Microservicios, Databases</sub>
-        <br><br>
-      </td>
-      <td align="center" width="33%">
-        <br>
-        <h2>🤖</h2>
-        <b>Bots Inteligentes</b><br>
-        <sub>WhatsApp, Telegram, Discord + IA</sub>
-        <br><br>
-      </td>
-      <td align="center" width="33%">
-        <br>
-        <h2>⚡</h2>
-        <b>Automatización</b><br>
-        <sub>Scripts, Workflows, Integraciones</sub>
-        <br><br>
-      </td>
-    </tr>
-  </table>
-  
-  **📧 Envíame un mensaje y trabajemos juntos**
-  
-  <img src="https://img.shields.io/badge/Estado-Disponible%20para%20freelance-00FFC6?style=for-the-badge&logo=freelancer&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Respuesta-En%2024%20horas-success?style=for-the-badge&logo=gmail&logoColor=white"/>
-  
+Looking to collaborate on an exciting project? I specialize in:
+
+| 💻 Backend Development | 🤖 AI Bots | ⚡ Automation |
+|:---:|:---:|:---:|
+| RESTful APIs | WhatsApp Bots | Workflow Automation |
+| Microservices | Telegram Bots | Integration Scripts |
+| Database Design | Discord Bots | Process Optimization |
+| System Architecture | AI Integration | Task Scheduling |
+
+### 📧 Let's Work Together
+
+![Available for Freelance](https://img.shields.io/badge/Available_for-Freelance-00FFC6?style=for-the-badge&logo=freelancer&logoColor=black)
+![Response Time](https://img.shields.io/badge/Response_Time-Within_24h-success?style=for-the-badge&logo=gmail&logoColor=white)
+
 </div>
 
 ---
 
-### 💬 Frase del Día
+## 📈 Recent Activity
 
 <div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El%20código%20perfecto%20no%20existe,%20pero%20la%20mejora%20constante%20sí.&author=Kromilla" alt="Quote"/>
-  
-</div>
 
----
-
-### 📈 Actividad Reciente en GitHub
-
-<div align="center">
-  
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<!-- Mientras tanto, aquí están mis últimas contribuciones -->
 <a href="https://github.com/Kromilla">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area=true&custom_title=Contribuciones%20Recientes" width="98%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area=true&custom_title=Recent%20Contributions" width="98%" alt="Activity Graph"/>
 </a>
 
 </div>
 
 ---
 
-<!-- 🌌 Footer Mejorado -->
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20✨&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
-  
-</div>
 
-<div align="center">
-  
-  ### 📊 Estadísticas del Perfil
-  
-  ![Visitas al perfil](https://komarev.com/ghpvc/?username=Kromilla&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge)
-  ![Seguidores](https://img.shields.io/github/followers/Kromilla?label=Seguidores&style=for-the-badge&color=00FFC6&labelColor=0D1117)
-  ![Estrellas](https://img.shields.io/github/stars/Kromilla?label=Estrellas%20Totales&style=for-the-badge&color=blueviolet&labelColor=0D1117)
-  
-  <br>
-  
-  <table align="center">
-    <tr>
-      <td align="center" width="25%">
-        <br>
-        <h1>⭐</h1>
-        <br>
-        <b>Dale estrella</b>
-        <br>
-        <sub>a mis repositorios</sub>
-        <br><br>
-      </td>
-      <td align="center" width="25%">
-        <br>
-        <h1>👥</h1>
-        <br>
-        <b>Sígueme</b>
-        <br>
-        <sub>en GitHub</sub>
-        <br><br>
-      </td>
-      <td align="center" width="25%">
-        <br>
-        <h1>🔗</h1>
-        <br>
-        <b>Comparte</b>
-        <br>
-        <sub>mi perfil</sub>
-        <br><br>
-      </td>
-      <td align="center" width="25%">
-        <br>
-        <h1>🤝</h1>
-        <br>
-        <b>Colabora</b>
-        <br>
-        <sub>conmigo</sub>
-        <br><br>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  ---
-  
-  <sub>💻 Hecho con ❤️ por <a href="https://github.com/Kromilla">@Kromilla</a></sub>
-  <br>
-  <sub>⚡ Siempre aprendiendo, siempre mejorando</sub>
-  
-  <br><br>
-  
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-  
+### 💡 "Clean code is not written by following a set of rules. You know you are working on clean code when each routine turns out to be pretty much what you expected." - Ward Cunningham
+
+---
+
+### 🤝 Connect & Collaborate
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <br>
+      <h3>⭐</h3>
+      <b>Star</b><br>
+      <sub>my repositories</sub>
+      <br><br>
+    </td>
+    <td align="center" width="25%">
+      <br>
+      <h3>👥</h3>
+      <b>Follow</b><br>
+      <sub>on GitHub</sub>
+      <br><br>
+    </td>
+    <td align="center" width="25%">
+      <br>
+      <h3>🔗</h3>
+      <b>Share</b><br>
+      <sub>my profile</sub>
+      <br><br>
+    </td>
+    <td align="center" width="25%">
+      <br>
+      <h3>🤝</h3>
+      <b>Collaborate</b><br>
+      <sub>with me</sub>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+---
+
+<sub>💻 Crafted with ❤️ by <a href="https://github.com/Kromilla">Carlos Ibañez</a></sub><br>
+<sub>⚡ Always learning, always improving</sub>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
 </div>
