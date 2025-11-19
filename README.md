@@ -110,13 +110,13 @@ const carlos = {
     <h3 align="center">🚲 <a href="https://github.com/Kromilla/EasyBici">EasyBici</a></h3>
     <p align="center"><strong>Bicycle Management System</strong></p>
     <p align="center">
-      A comprehensive bike management system with relational database, complete CRUD operations, and statistical reporting capabilities.
+      Database development project for bicycle management with complete CRUD operations, relational database design, and comprehensive reporting features.
     </p>
     <p align="center"><strong>Tech Stack:</strong></p>
     <p align="center">
       • Node.js + Express.js<br>
       • SQLite Database<br>
-      • RESTful API Design
+      • Data Analysis & Reporting
     </p>
     <p align="center">
       <a href="https://github.com/Kromilla/EasyBici">
@@ -125,59 +125,65 @@ const carlos = {
     </p>
   </td>
   <td width="50%" valign="top">
-    <h3 align="center">🤖 Multi-Platform Bot Framework</h3>
-    <p align="center"><strong>AI-Powered Bot System</strong> 🔒 <em>Private Repository</em></p>
+    <h3 align="center">📝 <a href="https://github.com/Kromilla/UniReportes">UniReportes</a></h3>
+    <p align="center"><strong>University Reports System</strong></p>
     <p align="center">
-      Advanced bot framework integrating <strong>WhatsApp, Telegram, and Discord</strong> through an intermediary API powered by OpenAI. Features custom commands, automated moderation, and intelligent responses.
+      JavaScript-based reporting system for university management. Features automated report generation and data processing capabilities.
     </p>
     <p align="center"><strong>Tech Stack:</strong></p>
     <p align="center">
-      • Node.js Backend<br>
-      • WhatsApp Business API<br>
-      • Telegram Bot API<br>
-      • Discord.js<br>
-      • OpenAI Integration
+      • JavaScript<br>
+      • Node.js<br>
+      • Data Processing<br>
+      • Report Generation
     </p>
     <p align="center">
-      <img src="https://img.shields.io/badge/STATUS-PRIVATE-FF4444?style=for-the-badge" alt="Private Status"/>
+      <a href="https://github.com/Kromilla/UniReportes">
+        <img src="https://img.shields.io/badge/View_Code-00FFC6?style=for-the-badge&logo=github&logoColor=black" alt="View Code"/>
+      </a>
     </p>
   </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
-    <h3 align="center">📊 Power BI - Colombia Analytics Dashboard</h3>
-    <p align="center"><strong>Interactive Data Analytics Dashboard</strong></p>
+    <h3 align="center">🤖 <a href="https://github.com/Kromilla/Laboratorio-MLFLOW">MLflow Laboratory</a></h3>
+    <p align="center"><strong>Machine Learning Workflow</strong></p>
     <p align="center">
-      Comprehensive dashboard analyzing homicide data in Colombia with interactive visualizations, dynamic filters, and regional breakdowns.
+      MLflow experimentation and model tracking laboratory. Implements ML lifecycle management with experiment tracking and model versioning.
     </p>
     <p align="center"><strong>Tech Stack:</strong></p>
     <p align="center">
-      • Power BI<br>
-      • DAX Formulas<br>
-      • SQL Queries<br>
-      • Data Modeling
+      • Python<br>
+      • MLflow<br>
+      • Jupyter Notebook<br>
+      • Machine Learning
     </p>
     <p align="center">
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+      <a href="https://github.com/Kromilla/Laboratorio-MLFLOW">
+        <img src="https://img.shields.io/badge/View_Code-00FFC6?style=for-the-badge&logo=github&logoColor=black" alt="View Code"/>
+      </a>
     </p>
   </td>
   <td width="50%" valign="top">
-    <h3 align="center">🔧 Other Projects</h3>
-    <p align="center">Explore my other repositories for:</p>
+    <h3 align="center">🌸 <a href="https://github.com/Kromilla/Flowers">Flowers</a></h3>
+    <p align="center"><strong>Interactive Web Animation</strong></p>
     <p align="center">
-      🤖 Additional bot implementations<br>
-      🔌 API integrations and wrappers<br>
-      ⚙️ Automation scripts and tools<br>
-      🛠️ Utility libraries and helpers
+      Beautiful flower animation web project with modern CSS techniques. Live demo showcasing creative frontend development skills.
+    </p>
+    <p align="center"><strong>Tech Stack:</strong></p>
+    <p align="center">
+      • HTML5<br>
+      • CSS3 Animations<br>
+      • JavaScript<br>
+      • Vercel Deployment
     </p>
     <p align="center">
-      <a href="https://github.com/Kromilla?tab=repositories">
-        <img src="https://img.shields.io/badge/View_All_Repositories-00FFC6?style=for-the-badge&logo=github&logoColor=black" alt="View All Repositories"/>
+      <a href="https://github.com/Kromilla/Flowers">
+        <img src="https://img.shields.io/badge/View_Code-00FFC6?style=for-the-badge&logo=github&logoColor=black" alt="View Code"/>
       </a>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/github/stars/Kromilla?style=social" alt="Stars"/>
-      <img src="https://img.shields.io/github/followers/Kromilla?style=social" alt="Followers"/>
+      <a href="https://flowers-five-bay.vercel.app">
+        <img src="https://img.shields.io/badge/Live_Demo-FF3E00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+      </a>
     </p>
   </td>
 </tr>
