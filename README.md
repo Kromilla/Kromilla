@@ -1,3 +1,24 @@
+<div align="center">
+
+# 💫 Carlos Alfredo Ibañez Ortiz
+
+### Backend Developer | Automation Engineer | AI Bot Specialist
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+scalable+backend+systems;Creating+intelligent+multi-platform+bots;Automating+workflows+and+processes)](https://git.io/typing-svg)
+
+![My Image](Imagen/ChatGPT%20Image%2011%20oct%202025%2C%2011_13_44.png)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos15.ci15@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kromilla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ibañez-a476b4265)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kromilla)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kromilla&label=Profile%20Views&color=00FFC6&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Kromilla?label=Followers&style=flat-square&color=00FFC6)
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
