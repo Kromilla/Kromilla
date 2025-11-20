@@ -1,9 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Kromilla&label=Profile%20Views&color=00FFC6&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/Kromilla?label=Followers&style=flat-square&color=00FFC6)
-
-</div>
-
----
 
 ## 👨‍💻 About Me
 
