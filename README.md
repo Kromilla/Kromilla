@@ -215,7 +215,7 @@ Looking to collaborate on an exciting project? I specialize in:
 
 <div align="center">
 
-  <img src="https://github.com/Kromilla/Kromilla/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Kromilla/Kromilla/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
