@@ -30,7 +30,7 @@ const carlos = {
     focus: "Building efficient, scalable solutions",
     passions: ["Platform Integration", "Clean Code", "Continuous Learning"],
     currentlyLearning: ["Microservices Architecture", "Docker", "Cloud Computing"],
-    goals2025: ["Open Source Contributions", "Professional Certifications", "SaaS Project Launch"],
+    goals2026: ["Open Source Contributions", "Professional Certifications", "SaaS Project Launch"],
     availability: "Open for freelance & collaboration"
 };
 ```
@@ -116,9 +116,9 @@ const carlos = {
     </p>
     <p align="center"><strong>Tech Stack:</strong></p>
     <p align="center">
-      • Node.js + Express.js<br>
-      • SQLite Database<br>
-      • Data Analysis & Reporting
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
     </p>
     <p align="center">
       <a href="https://github.com/Kromilla/EasyBici">
@@ -134,10 +134,8 @@ const carlos = {
     </p>
     <p align="center"><strong>Tech Stack:</strong></p>
     <p align="center">
-      • JavaScript<br>
-      • Node.js<br>
-      • Data Processing<br>
-      • Report Generation
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     </p>
     <p align="center">
       <a href="https://github.com/Kromilla/UniReportes">
@@ -155,10 +153,9 @@ const carlos = {
     </p>
     <p align="center"><strong>Tech Stack:</strong></p>
     <p align="center">
-      • Python<br>
-      • MLflow<br>
-      • Jupyter Notebook<br>
-      • Machine Learning
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
     </p>
     <p align="center">
       <a href="https://github.com/Kromilla/Laboratorio-MLFLOW">
@@ -174,10 +171,9 @@ const carlos = {
     </p>
     <p align="center"><strong>Tech Stack:</strong></p>
     <p align="center">
-      • HTML5<br>
-      • CSS3 Animations<br>
-      • JavaScript<br>
-      • Vercel Deployment
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     </p>
     <p align="center">
       <a href="https://github.com/Kromilla/Flowers">
@@ -218,6 +214,8 @@ Looking to collaborate on an exciting project? I specialize in:
 ## 📈 Recent Activity
 
 <div align="center">
+
+  <img src="https://github.com/Kromilla/Kromilla/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
