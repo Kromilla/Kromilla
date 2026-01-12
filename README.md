@@ -99,15 +99,24 @@ const carlos = {
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kromilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&icon_color=00FFC6&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/Kromilla)
+<a href="https://github.com/Kromilla">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kromilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&icon_color=00FFC6&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+</a>
+<a href="https://github.com/Kromilla">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Kromilla&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFC6&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6"/>
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kromilla&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFC6&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6)](https://github.com/Kromilla)
+<a href="https://github.com/Kromilla">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kromilla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&text_color=C9D1D9&langs_count=8&hide=html,css&cache_seconds=1800"/>
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kromilla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&text_color=C9D1D9&langs_count=8&hide=html,css&cache_seconds=1800)](https://github.com/Kromilla)
+<a href="https://github.com/Kromilla">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&custom_title=Contribution%20Activity&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area_color=00FFC6&area=true&hide_border=true&title_color=00FFC6"/>
+</a>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&custom_title=Contribution%20Activity&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area_color=00FFC6&area=true&hide_border=true&title_color=00FFC6)](https://github.com/Kromilla)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kromilla&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&title=Commits,Stars,Followers,PullRequest)](https://github.com/Kromilla)
+<a href="https://github.com/Kromilla">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Kromilla&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&title=Commits,Stars,Followers,PullRequest"/>
+</a>
 
 </div>
 
