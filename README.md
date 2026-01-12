@@ -31,25 +31,28 @@
 ### 📊 Mis Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kromilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kromilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="150" />
   <img src="https://streak-stats.demolab.com?user=Kromilla&theme=tokyonight&hide_border=true&background=0D1117" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kromilla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kromilla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="150" />
 </p>
 
 ---
 
 ### 🧩 Proyectos Destacados
 
-🚲 [**EasyBici**](https://github.com/Kromilla/EasyBici)  
+🚲 [**EasyBici**](https://github.com/Kromilla/EasyBici)
+
 > Sistema de gestión de bicicletas con base de datos relacional y análisis de datos.
 
-🤖 [**BotV2-WhatsApp**](https://github.com/Kromilla/BotV2-WhatsApp-Backup) *(Privado)*  
+🤖 [**BotV2-WhatsApp**](https://github.com/Kromilla/BotV2-WhatsApp-Backup) _(Privado)_
+
 > Bot avanzado que integra **WhatsApp, Telegram y Discord** mediante una API intermedia.
 
-📊 [**Análisis Power BI - Colombia**](#)  
+📊 [**Análisis Power BI - Colombia**](#)
+
 > Dashboard interactivo de **datos de homicidios en Colombia**: tipos, armas, géneros y regiones.
 
 ---
@@ -66,6 +69,7 @@
 ---
 
 ### 💬 Frase del Día
+
 > “El código perfecto no existe, pero la mejora constante sí.” ⚙️  
 > <sub><i>— Kromilla</i></sub>
 
@@ -79,7 +83,6 @@
 <p align="center">
   <img src="https://files.openai.com/file-00000000ef14620e84c91d3f08a7bc56" width="100%" alt="Kromilla Futurista Footer"/>
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kromilla&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge"/>
