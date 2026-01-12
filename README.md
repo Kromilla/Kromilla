@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+scalable+backend+systems;Creating+intelligent+multi-platform+bots;Automating+workflows+and+processes)](https://git.io/typing-svg)
 
-![My Image](Imagen/ChatGPT%20Image%2011%20oct%202025%2C%2011_13_44.png)
+![Profile Header](Imagen/header_image.png)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos15.ci15@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kromilla)
@@ -23,23 +23,35 @@
 ## 👨‍💻 About Me
 
 ```typescript
+/** 
+ * Represents my professional profile
+ * @type {SoftwareEngineer}
+ */
 const carlos = {
   role: "Backend Developer & Systems Engineering Student",
   location: "🇨🇴 Colombia",
-  specialization: ["Backend Development", "Automation", "AI Bots"],
+  specialization: [
+    "Backend Development", 
+    "Automation", 
+    "AI Bots"
+  ],
   focus: "Building efficient, scalable solutions",
-  passions: ["Platform Integration", "Clean Code", "Continuous Learning"],
+  passions: [
+    "Platform Integration", 
+    "Clean Code", 
+    "Continuous Learning"
+  ],
   currentlyLearning: [
     "Microservices Architecture",
     "Docker",
-    "Cloud Computing",
+    "Cloud Computing"
   ],
   goals2026: [
     "Open Source Contributions",
     "Professional Certifications",
-    "SaaS Project Launch",
+    "SaaS Project Launch"
   ],
-  availability: "Open for freelance & collaboration",
+  status: "Open for freelance & collaboration"
 };
 ```
 
@@ -112,6 +124,11 @@ const carlos = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&custom_title=Contribution%20Activity&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area_color=00FFC6&area=true&hide_border=true&title_color=00FFC6" alt="Contribution Graph"/>
 </a>
 
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kromilla/Kromilla/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 ---
