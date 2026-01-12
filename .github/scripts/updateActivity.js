@@ -24,7 +24,7 @@ function formatEvent(event) {
 
   switch (event.type) {
     case 'PushEvent':
-      const commitCount = event.payload.size;
+      const commitCount = event.payload.size || event.payload.distinct_size || (event.payload.commits && event.payload.commits.length) || 1;
       const commitMsg = commitCount === 1 ? 'commit' : 'commits';
       return `💪 Pushed ${commitCount} ${commitMsg} to [${repoName}](${repoUrl})`;
     case 'PullRequestEvent':
@@ -36,12 +36,12 @@ function formatEvent(event) {
     case 'IssueCommentEvent':
       return `💬 Commented on issue in [${repoName}](${repoUrl})`;
     case 'CreateEvent': // Usually for creating repos or branches
-        if (event.payload.ref_type === 'repository') {
-            return `🆕 Created repository [${repoName}](${repoUrl})`;
-        }
-        return `🔨 Created ${event.payload.ref_type} in [${repoName}](${repoUrl})`;
+      if (event.payload.ref_type === 'repository') {
+        return `🆕 Created repository [${repoName}](${repoUrl})`;
+      }
+      return `🔨 Created ${event.payload.ref_type} in [${repoName}](${repoUrl})`;
     case 'WatchEvent':
-        return `⭐ Starred [${repoName}](${repoUrl})`;
+      return `⭐ Starred [${repoName}](${repoUrl})`;
     default:
       return null;
   }
@@ -57,8 +57,8 @@ async function updateReadme() {
     .join('\n');
 
   if (!recentActivity) {
-      console.log('No recent activity found.');
-      return;
+    console.log('No recent activity found.');
+    return;
   }
 
   let readmeContent = fs.readFileSync(README_PATH, 'utf8');
@@ -67,8 +67,8 @@ async function updateReadme() {
   const regex = new RegExp(`${startMarker}[\\s\\S]*?${endMarker}`);
 
   if (!regex.test(readmeContent)) {
-      console.error('Could not find activity section markers in README.md');
-      process.exit(1);
+    console.error('Could not find activity section markers in README.md');
+    process.exit(1);
   }
 
   const newContent = `${startMarker}\n${recentActivity}\n${endMarker}`;
