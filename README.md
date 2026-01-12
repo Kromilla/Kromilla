@@ -130,7 +130,7 @@ const carlos = {
 </a>
 
 <a href="https://github.com/Kromilla">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kromilla&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFC6&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Kromilla&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFC6&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6" alt="GitHub Streak"/>
 </a>
 
 <a href="https://github.com/Kromilla">
