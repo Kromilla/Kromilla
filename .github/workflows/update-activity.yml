@@ -14,11 +14,8 @@ jobs:
     
     steps:
       - uses: actions/checkout@v4
-      - uses: nicosabilo/github-activity-readme@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: TheDanniCraft/activity-log@v1
         with:
-          MAX_LINES: 5
-          GH_USERNAME: Kromilla
-          FILTER_EVENTS: PushEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent
-          COMMIT_MSG: '⚡ Update Recent Activity'
+          GITHUB_USERNAME: Kromilla
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EVENT_LIMIT: 5
