@@ -2,8 +2,11 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # Runs every 24 hours
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,9 +14,10 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           max_lines: 5
+
