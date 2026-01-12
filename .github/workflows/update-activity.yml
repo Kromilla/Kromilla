@@ -2,16 +2,15 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Update Activity
+    permissions:
+      contents: write
     
     steps:
       - uses: actions/checkout@v4
@@ -19,4 +18,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          max_lines: 5
+          MAX_LINES: 5
