@@ -227,11 +227,6 @@ Looking to collaborate on an exciting project? I specialize in:
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Kromilla/Kromilla/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <a href="https://github.com/Kromilla">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area=true&custom_title=Recent%20Contributions" width="98%" alt="Activity Graph"/>
 </a>
