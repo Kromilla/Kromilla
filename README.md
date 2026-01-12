@@ -112,10 +112,6 @@ const carlos = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&custom_title=Contribution%20Activity&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area_color=00FFC6&area=true&hide_border=true&title_color=00FFC6" alt="Contribution Graph"/>
 </a>
 
-<a href="https://github.com/Kromilla">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kromilla&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&title=Commits,Stars,Followers,PullRequest" alt="GitHub Trophies"/>
-</a>
-
 </div>
 
 ---
