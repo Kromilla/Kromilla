@@ -100,6 +100,11 @@ const carlos = {
 <div align="center">
 
 <a href="https://github.com/Kromilla">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kromilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&icon_color=00FFC6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kromilla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&text_color=C9D1D9&langs_count=8&hide=html,css" alt="Top Languages"/>
+</a>
+
+<a href="https://github.com/Kromilla">
   <img src="https://streak-stats.demolab.com?user=Kromilla&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFC6&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6" alt="GitHub Streak"/>
 </a>
 
