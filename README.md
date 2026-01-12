@@ -113,10 +113,6 @@ const carlos = {
 </a>
 
 <a href="https://github.com/Kromilla">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kromilla&theme=tokyonight" alt="Profile Summary"/>
-</a>
-
-<a href="https://github.com/Kromilla">
   <img src="https://github-profile-trophy.vercel.app/?username=Kromilla&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&title=Commits,Stars,Followers,PullRequest" alt="GitHub Trophies"/>
 </a>
 
