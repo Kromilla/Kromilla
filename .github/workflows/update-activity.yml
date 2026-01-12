@@ -19,5 +19,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 5
-          USERNAME: Kromilla
+          GH_USERNAME: Kromilla
           COMMIT_MSG: '⚡ Update Recent Activity'
