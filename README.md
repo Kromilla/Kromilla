@@ -223,18 +223,6 @@ Looking to collaborate on an exciting project? I specialize in:
 
 ---
 
-## 📈 Recent Activity
-
-<div align="center">
-
-<a href="https://github.com/Kromilla">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area=true&custom_title=Recent%20Contributions" width="98%" alt="Activity Graph"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 "Clean code is not written by following a set of rules. You know you are working on clean code when each routine turns out to be pretty much what you expected." - Ward Cunningham
