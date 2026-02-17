@@ -160,7 +160,7 @@ const carlos = {
 ---
 <br />
 
-## � Activity & Automation
+## 📈 Activity & Automation
 
 <div align="center">
 
