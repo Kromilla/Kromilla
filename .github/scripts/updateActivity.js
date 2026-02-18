@@ -49,11 +49,24 @@ function formatEvent(event) {
 
 async function updateReadme() {
   const events = await fetchActivity();
-  const recentActivity = events
-    .map(formatEvent)
-    .filter(line => line !== null)
-    .slice(0, MAX_EVENTS)
-    .map(line => `- ${line} <!-- ${new Date().toISOString()} -->`) // Add timestamp to force change if needed, or just line
+  
+  // Filter for unique repositories
+  const uniqueRepoEvents = [];
+  const seenRepos = new Set();
+
+  for (const event of events) {
+    if (!seenRepos.has(event.repo.name)) {
+      const formatted = formatEvent(event);
+      if (formatted) {
+        uniqueRepoEvents.push(formatted);
+        seenRepos.add(event.repo.name);
+      }
+    }
+    if (uniqueRepoEvents.length >= MAX_EVENTS) break;
+  }
+
+  const recentActivity = uniqueRepoEvents
+    .map(line => `- ${line} <!-- ${new Date().toISOString()} -->`)
     .join('\n');
 
   if (!recentActivity) {
