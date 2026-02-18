@@ -86,17 +86,17 @@ const carlos = {
 <table>
 <tr>
   <td width="50%" valign="top">
-    <h3 align="center">🚲 <a href="https://github.com/Kromilla/EasyBici">EasyBici</a></h3>
-    <p align="center"><strong>Enterprise-Grade Inventory Management</strong></p>
+    <h3 align="center">🕹️ <a href="https://github.com/Kromilla/Discord-web-controller">Discord Command Center</a></h3>
+    <p align="center"><strong>Real-time Bot Management Dashboard</strong></p>
     <p>
-      Engineered a robust relational database system to solve bicycle inventory fragmentation.
+      Full-stack Next.js 14 application for seamless bot control and community moderation.
       <br/ >
-      ✅ <strong>Optimized Queries</strong>: Reduced data retrieval time by 40% using normalized SQL schemas.
+      ✅ <strong>Live Control</strong>: WebSocket-powered interface for real-time bot status and control.
       <br />
-      ✅ <strong>Secure API</strong>: Implemented JWT authentication for role-based access control.
+      ✅ <strong>Modern UI</strong>: Glassmorphism design with Tailwind CSS and responsive layout.
     </p>
     <p align="center">
-      <a href="https://github.com/Kromilla/EasyBici">
+      <a href="https://github.com/Kromilla/Discord-web-controller">
         <img src="https://img.shields.io/badge/View_Source_Code-00FFC6?style=for-the-badge&logo=github&logoColor=black" alt="View Code"/>
       </a>
     </p>
