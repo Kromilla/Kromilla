@@ -160,7 +160,7 @@ const carlos = {
 ---
 <br />
 
-## � Activity & Automation
+## 📈 Activity & Automation
 
 <div align="center">
 
@@ -199,6 +199,20 @@ const carlos = {
 <a href="mailto:carlos15.ci15@gmail.com">
   <img src="https://img.shields.io/badge/Send_Me_an_Email-00FFC6?style=for-the-badge&logo=gmail&logoColor=black" height="40" />
 </a>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Kromilla">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-ibañez-a476b4265">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  <a href="https://t.me/Kromilla">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" height="30" />
+  </a>
+</div>
 
 </div>
 
