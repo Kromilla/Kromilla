@@ -218,45 +218,6 @@ const carlos = {
 
 ---
 
-<div align="center">
-
-### 🤝 Connect & Collaborate
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <br>
-      <h3>⭐</h3>
-      <b>Star</b><br>
-      <sub>my repositories</sub>
-      <br><br>
-    </td>
-    <td align="center" width="25%">
-      <br>
-      <h3>👥</h3>
-      <b>Follow</b><br>
-      <sub>on GitHub</sub>
-      <br><br>
-    </td>
-    <td align="center" width="25%">
-      <br>
-      <h3>🔗</h3>
-      <b>Share</b><br>
-      <sub>my profile</sub>
-      <br><br>
-    </td>
-    <td align="center" width="25%">
-      <br>
-      <h3>🤝</h3>
-      <b>Collaborate</b><br>
-      <sub>with me</sub>
-      <br><br>
-    </td>
-  </tr>
-</table>
-
----
-
 <sub>All systems operational. Crafted by <a href="https://github.com/Kromilla">Carlos Ibañez</a>.</sub>
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=false&animate=true" width="100%" />
