@@ -194,13 +194,7 @@ const carlos = {
 | :---: | :---: | :---: |
 | High-performance APIs | Discord/Telegram/WhatsApp | Workflow Optimization |
 
-<br />
 
-<a href="mailto:carlos15.ci15@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Me_an_Email-00FFC6?style=for-the-badge&logo=gmail&logoColor=black" height="40" />
-</a>
-
-<br />
 
 </div>
 
