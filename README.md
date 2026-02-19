@@ -173,20 +173,9 @@ const carlos = {
 
 ### ⚡ Recent Commits
 <!--START_SECTION:activity-->
-<<<<<<< HEAD
-- 💪 Pushed 1 commit to [Kromilla/Flowers](https://github.com/Kromilla/Flowers) <!-- 2026-02-19T02:49:01.601Z -->
-- 💪 Pushed 1 commit to [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla) <!-- 2026-02-19T02:49:01.601Z -->
-- 💪 Pushed 1 commit to [Kromilla/Discord-web-controller](https://github.com/Kromilla/Discord-web-controller) <!-- 2026-02-19T02:49:01.601Z -->
-=======
-<<<<<<< HEAD
-- 💪 Pushed 1 commit to [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla) <!-- 2026-02-18T15:58:03.033Z -->
-- 💪 Pushed 1 commit to [Kromilla/Discord-web-controller](https://github.com/Kromilla/Discord-web-controller) <!-- 2026-02-18T15:58:03.034Z -->
-=======
-- 💪 Pushed 1 commit to [Kromilla/Flowers](https://github.com/Kromilla/Flowers) <!-- 2026-02-19T00:38:00.591Z -->
-- 💪 Pushed 1 commit to [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla) <!-- 2026-02-19T00:38:00.593Z -->
-- 💪 Pushed 1 commit to [Kromilla/Discord-web-controller](https://github.com/Kromilla/Discord-web-controller) <!-- 2026-02-19T00:38:00.593Z -->
->>>>>>> 34a4c70 (chore: update Flowers description and remove backup files)
->>>>>>> 72a47e9 (chore: update Flowers description and remove backup files)
+- 💪 Pushed 1 commit to [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla) <!-- 2026-02-19T02:53:43.630Z -->
+- 💪 Pushed 1 commit to [Kromilla/Flowers](https://github.com/Kromilla/Flowers) <!-- 2026-02-19T02:53:43.631Z -->
+- 💪 Pushed 1 commit to [Kromilla/Discord-web-controller](https://github.com/Kromilla/Discord-web-controller) <!-- 2026-02-19T02:53:43.631Z -->
 <!--END_SECTION:activity-->
 
 ---
