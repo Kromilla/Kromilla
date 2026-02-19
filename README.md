@@ -131,19 +131,18 @@ const carlos = {
     </p>
     <p align="center">
       <a href="https://github.com/Kromilla/Laboratorio-MLFLOW">
-        <img src="https://img.shields.io/badge/View_Source_Code-00FFC6?style=for-the-badge&logo=github&logoColor=black" alt="View Code"/>
       </a>
     </p>
   </td>
   <td width="50%" valign="top">
     <h3 align="center">🌸 <a href="https://github.com/Kromilla/Flowers">Flowers</a></h3>
-    <p align="center"><strong>High-Performance Interactive UI</strong></p>
+    <p align="center"><strong>Organic Interaction Engine</strong></p>
     <p>
-      A showcase of modern CSS/JS animation performance and aesthetic design.
+      A study in procedural beauty and render-cycle efficiency. Where mathematics meets nature.
       <br />
-      ✅ <strong>60 FPS Animations</strong>: Optimized rendering using distinct composite layers.
+      ✅ <strong>GPU-Accelerated Compositing</strong>: Silky smooth 60fps interpolation using hardware layers.
       <br />
-      ✅ <strong>Responsive Design</strong>: Fluid layout adapting seamlessly to all viewports.
+      ✅ <strong>Fluid Reactivity</strong>: Layouts that breathe and adapt organically, not just resize.
     </p>
     <p align="center">
       <a href="https://github.com/Kromilla/Flowers">
@@ -174,9 +173,20 @@ const carlos = {
 
 ### ⚡ Recent Commits
 <!--START_SECTION:activity-->
+<<<<<<< HEAD
 - 💪 Pushed 1 commit to [Kromilla/Flowers](https://github.com/Kromilla/Flowers) <!-- 2026-02-19T02:49:01.601Z -->
 - 💪 Pushed 1 commit to [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla) <!-- 2026-02-19T02:49:01.601Z -->
 - 💪 Pushed 1 commit to [Kromilla/Discord-web-controller](https://github.com/Kromilla/Discord-web-controller) <!-- 2026-02-19T02:49:01.601Z -->
+=======
+<<<<<<< HEAD
+- 💪 Pushed 1 commit to [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla) <!-- 2026-02-18T15:58:03.033Z -->
+- 💪 Pushed 1 commit to [Kromilla/Discord-web-controller](https://github.com/Kromilla/Discord-web-controller) <!-- 2026-02-18T15:58:03.034Z -->
+=======
+- 💪 Pushed 1 commit to [Kromilla/Flowers](https://github.com/Kromilla/Flowers) <!-- 2026-02-19T00:38:00.591Z -->
+- 💪 Pushed 1 commit to [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla) <!-- 2026-02-19T00:38:00.593Z -->
+- 💪 Pushed 1 commit to [Kromilla/Discord-web-controller](https://github.com/Kromilla/Discord-web-controller) <!-- 2026-02-19T00:38:00.593Z -->
+>>>>>>> 34a4c70 (chore: update Flowers description and remove backup files)
+>>>>>>> 72a47e9 (chore: update Flowers description and remove backup files)
 <!--END_SECTION:activity-->
 
 ---
