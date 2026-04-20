@@ -173,7 +173,7 @@ const carlos = {
 
 ### ⚡ Recent Commits
 <!--START_SECTION:activity-->
-- 💪 Pushed 1 commit to [Kromilla/Flowers](https://github.com/Kromilla/Flowers) <!-- 2026-04-19T03:37:08.655Z -->
+- 💪 Pushed 1 commit to [Kromilla/Taller-Regresion-knn](https://github.com/Kromilla/Taller-Regresion-knn) <!-- 2026-04-20T03:38:58.747Z -->
 <!--END_SECTION:activity-->
 
 ---
