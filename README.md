@@ -173,8 +173,9 @@ const carlos = {
 
 ### ⚡ Recent Commits
 <!--START_SECTION:activity-->
-- 💪 Pushed 1 commit to [Kromilla/Regresion-Logistica](https://github.com/Kromilla/Regresion-Logistica) <!-- 2026-05-03T03:57:01.836Z -->
-- 💪 Pushed 1 commit to [Kromilla/Taller-Regresion-knn](https://github.com/Kromilla/Taller-Regresion-knn) <!-- 2026-05-03T03:57:01.837Z -->
+- ⭐ Starred [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla) <!-- 2026-05-04T03:54:03.700Z -->
+- 💪 Pushed 1 commit to [Kromilla/Regresion-Logistica](https://github.com/Kromilla/Regresion-Logistica) <!-- 2026-05-04T03:54:03.700Z -->
+- 💪 Pushed 1 commit to [Kromilla/Taller-Regresion-knn](https://github.com/Kromilla/Taller-Regresion-knn) <!-- 2026-05-04T03:54:03.700Z -->
 <!--END_SECTION:activity-->
 
 ---
