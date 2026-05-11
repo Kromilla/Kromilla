@@ -173,10 +173,11 @@ const carlos = {
 
 ### ⚡ Recent Commits
 <!--START_SECTION:activity-->
-- 💪 Pushed 1 commit to [Kromilla/Pro-Tecnologia](https://github.com/Kromilla/Pro-Tecnologia) <!-- 2026-05-10T03:58:39.499Z -->
-- ⭐ Starred [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla) <!-- 2026-05-10T03:58:39.499Z -->
-- 💪 Pushed 1 commit to [Kromilla/Regresion-Logistica](https://github.com/Kromilla/Regresion-Logistica) <!-- 2026-05-10T03:58:39.499Z -->
-- 💪 Pushed 1 commit to [Kromilla/Taller-Regresion-knn](https://github.com/Kromilla/Taller-Regresion-knn) <!-- 2026-05-10T03:58:39.499Z -->
+- 💪 Pushed 1 commit to [Kromilla/perceptron-segmentacion-colores](https://github.com/Kromilla/perceptron-segmentacion-colores) <!-- 2026-05-11T04:09:39.481Z -->
+- 💪 Pushed 1 commit to [Kromilla/Pro-Tecnologia](https://github.com/Kromilla/Pro-Tecnologia) <!-- 2026-05-11T04:09:39.481Z -->
+- ⭐ Starred [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla) <!-- 2026-05-11T04:09:39.481Z -->
+- 💪 Pushed 1 commit to [Kromilla/Regresion-Logistica](https://github.com/Kromilla/Regresion-Logistica) <!-- 2026-05-11T04:09:39.481Z -->
+- 💪 Pushed 1 commit to [Kromilla/Taller-Regresion-knn](https://github.com/Kromilla/Taller-Regresion-knn) <!-- 2026-05-11T04:09:39.481Z -->
 <!--END_SECTION:activity-->
 
 ---
