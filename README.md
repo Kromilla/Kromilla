@@ -173,11 +173,11 @@ const carlos = {
 
 ### ⚡ Recent Commits
 <!--START_SECTION:activity-->
-- 💪 Pushed 1 commit to [Kromilla/perceptron-segmentacion-colores](https://github.com/Kromilla/perceptron-segmentacion-colores) <!-- 2026-05-24T04:16:35.165Z -->
-- 💪 Pushed 1 commit to [Kromilla/Pro-Tecnologia](https://github.com/Kromilla/Pro-Tecnologia) <!-- 2026-05-24T04:16:35.166Z -->
-- ⭐ Starred [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla) <!-- 2026-05-24T04:16:35.166Z -->
-- 💪 Pushed 1 commit to [Kromilla/Regresion-Logistica](https://github.com/Kromilla/Regresion-Logistica) <!-- 2026-05-24T04:16:35.166Z -->
-- 💪 Pushed 1 commit to [Kromilla/Taller-Regresion-knn](https://github.com/Kromilla/Taller-Regresion-knn) <!-- 2026-05-24T04:16:35.166Z -->
+- 🔨 Created branch in [Kromilla/ProyectoNaiveBayes](https://github.com/Kromilla/ProyectoNaiveBayes) <!-- 2026-05-25T04:38:58.901Z -->
+- 💪 Pushed 1 commit to [Kromilla/perceptron-segmentacion-colores](https://github.com/Kromilla/perceptron-segmentacion-colores) <!-- 2026-05-25T04:38:58.901Z -->
+- 💪 Pushed 1 commit to [Kromilla/Pro-Tecnologia](https://github.com/Kromilla/Pro-Tecnologia) <!-- 2026-05-25T04:38:58.901Z -->
+- ⭐ Starred [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla) <!-- 2026-05-25T04:38:58.901Z -->
+- 💪 Pushed 1 commit to [Kromilla/Regresion-Logistica](https://github.com/Kromilla/Regresion-Logistica) <!-- 2026-05-25T04:38:58.901Z -->
 <!--END_SECTION:activity-->
 
 ---
