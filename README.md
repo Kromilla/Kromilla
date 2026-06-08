@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Architecting+robust+backend+solutions;Engineering+autonomous+multi-platform+bots;Optimizing+workflows+with+code)](https://git.io/typing-svg)
 
-![Profile Header](Imagen/header_image.png)
+![Profile Header](Imagen/header_image.jpg)
 
 <div align="center">
   <a href="mailto:carlos15.ci15@gmail.com">
@@ -73,7 +73,7 @@ const carlos = {
 | **Core Stack** | **Infrastructure & Tools** | **Integrations** |
 | :---: | :---: | :---: |
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Compounding](https://img.shields.io/badge/CI/CD-000000?style=flat-square&logo=github-actions&logoColor=white) | ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=flat-square&logo=github-actions&logoColor=white) | ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) |
 
 </div>
@@ -90,7 +90,7 @@ const carlos = {
     <p align="center"><strong>Real-time Bot Management Dashboard</strong></p>
     <p>
       Full-stack Next.js 14 application for seamless bot control and community moderation.
-      <br/ >
+      <br />
       ✅ <strong>Live Control</strong>: WebSocket-powered interface for real-time bot status and control.
       <br />
       ✅ <strong>Modern UI</strong>: Glassmorphism design with Tailwind CSS and responsive layout.
@@ -131,6 +131,7 @@ const carlos = {
     </p>
     <p align="center">
       <a href="https://github.com/Kromilla/Laboratorio-MLFLOW">
+        <img src="https://img.shields.io/badge/View_Source_Code-00FFC6?style=for-the-badge&logo=github&logoColor=black" alt="View Code"/>
       </a>
     </p>
   </td>
@@ -163,6 +164,12 @@ const carlos = {
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Kromilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&icon_color=00FFC6&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kromilla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kromilla&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6" alt="GitHub Streak" height="165"/>
+
+<br />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&custom_title=Code+Frequency&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area_color=00FFC6&area=true&hide_border=true&title_color=00FFC6" alt="Contribution Graph" width="100%"/>
 
 <br />
@@ -171,13 +178,13 @@ const carlos = {
 
 </div>
 
-### ⚡ Recent Commits
+### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🔨 Created branch in [Kromilla/Clustering_NoSupervisado](https://github.com/Kromilla/Clustering_NoSupervisado) <!-- 2026-06-08T04:49:11.338Z -->
-- 💪 Pushed 1 commit to [Kromilla/CelciusFarengeiEntrenamiento](https://github.com/Kromilla/CelciusFarengeiEntrenamiento) <!-- 2026-06-08T04:49:11.338Z -->
-- 💪 Pushed 1 commit to [rubenov02/CelciusFarengeiEntrenamiento](https://github.com/rubenov02/CelciusFarengeiEntrenamiento) <!-- 2026-06-08T04:49:11.338Z -->
-- 💪 Pushed 1 commit to [Kromilla/Perceptron-Platinum](https://github.com/Kromilla/Perceptron-Platinum) <!-- 2026-06-08T04:49:11.338Z -->
-- 💪 Pushed 1 commit to [Kromilla/zalando-fashion-mnist](https://github.com/Kromilla/zalando-fashion-mnist) <!-- 2026-06-08T04:49:11.338Z -->
+- 🔨 Created branch in [Kromilla/Clustering_NoSupervisado](https://github.com/Kromilla/Clustering_NoSupervisado)
+- 💪 Pushed 1 commit to [Kromilla/CelciusFarengeiEntrenamiento](https://github.com/Kromilla/CelciusFarengeiEntrenamiento)
+- 💪 Pushed 1 commit to [rubenov02/CelciusFarengeiEntrenamiento](https://github.com/rubenov02/CelciusFarengeiEntrenamiento)
+- 💪 Pushed 1 commit to [Kromilla/Perceptron-Platinum](https://github.com/Kromilla/Perceptron-Platinum)
+- 💪 Pushed 1 commit to [Kromilla/zalando-fashion-mnist](https://github.com/Kromilla/zalando-fashion-mnist)
 <!--END_SECTION:activity-->
 
 ---
