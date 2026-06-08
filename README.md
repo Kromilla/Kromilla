@@ -164,9 +164,9 @@ const carlos = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kromilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&icon_color=00FFC6&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kromilla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kromilla&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6" alt="GitHub Streak" height="165"/>
+<img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
+<img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
+<img src="./profile/streak.svg" alt="GitHub Streak" height="165"/>
 
 <br />
 
