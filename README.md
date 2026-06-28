@@ -180,11 +180,11 @@ const carlos = {
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+- 💪 Pushed 1 commit to [Kromilla/github-profile-toolkit](https://github.com/Kromilla/github-profile-toolkit)
+- 🎉 Opened PR in [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla)
 - 💪 Pushed 1 commit to [Kromilla/universal-downloader](https://github.com/Kromilla/universal-downloader)
-- 🎉 Merged PR in [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla)
 - 🔨 Created branch in [Kromilla/Clustering_NoSupervisado](https://github.com/Kromilla/Clustering_NoSupervisado)
 - 💪 Pushed 1 commit to [Kromilla/CelciusFarengeiEntrenamiento](https://github.com/Kromilla/CelciusFarengeiEntrenamiento)
-- 💪 Pushed 1 commit to [rubenov02/CelciusFarengeiEntrenamiento](https://github.com/rubenov02/CelciusFarengeiEntrenamiento)
 <!--END_SECTION:activity-->
 
 ---
