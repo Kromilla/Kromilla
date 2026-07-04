@@ -183,7 +183,6 @@ const carlos = {
 - 💪 Pushed 1 commit to [Kromilla/github-profile-toolkit](https://github.com/Kromilla/github-profile-toolkit)
 - 🎉 Opened PR in [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla)
 - 💪 Pushed 1 commit to [Kromilla/universal-downloader](https://github.com/Kromilla/universal-downloader)
-- 🔨 Created branch in [Kromilla/Clustering_NoSupervisado](https://github.com/Kromilla/Clustering_NoSupervisado)
 <!--END_SECTION:activity-->
 
 ---
