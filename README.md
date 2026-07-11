@@ -180,9 +180,7 @@ const carlos = {
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 💪 Pushed 1 commit to [Kromilla/github-profile-toolkit](https://github.com/Kromilla/github-profile-toolkit)
-- 🎉 Opened PR in [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla)
-- 💪 Pushed 1 commit to [Kromilla/universal-downloader](https://github.com/Kromilla/universal-downloader)
+- 💪 Pushed 1 commit to [Kromilla/analizador-contratos-ia](https://github.com/Kromilla/analizador-contratos-ia)
 <!--END_SECTION:activity-->
 
 ---
