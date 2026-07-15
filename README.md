@@ -181,6 +181,7 @@ const carlos = {
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 - 💪 Pushed 1 commit to [Kromilla/analizador-contratos-ia](https://github.com/Kromilla/analizador-contratos-ia)
+- ⭐ Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 <!--END_SECTION:activity-->
 
 ---
