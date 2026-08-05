@@ -182,7 +182,6 @@ const carlos = {
 <!--START_SECTION:activity-->
 - 💪 Pushed 1 commit to [Kromilla/clima-plataforma](https://github.com/Kromilla/clima-plataforma)
 - 💪 Pushed 1 commit to [Kromilla/universal-downloader](https://github.com/Kromilla/universal-downloader)
-- ⭐ Starred [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
 <!--END_SECTION:activity-->
 
 ---
