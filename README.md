@@ -181,7 +181,6 @@ const carlos = {
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 - 💪 Pushed 1 commit to [Kromilla/clima-plataforma](https://github.com/Kromilla/clima-plataforma)
-- 💪 Pushed 1 commit to [Kromilla/universal-downloader](https://github.com/Kromilla/universal-downloader)
 <!--END_SECTION:activity-->
 
 ---
