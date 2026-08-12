@@ -81,6 +81,24 @@ const carlos = {
 ---
 <br />
 
+## 🔥 Top Repositories
+
+> Auto-updated daily with live stars, forks, and stack data.
+
+<!--START_SECTION:top-repos-->
+| Repository | Description | Stack | Metrics |
+| :--- | :--- | :---: | :---: |
+| [Discord-web-controller](https://github.com/Kromilla/Discord-web-controller) | Real-time bot management dashboard built with Next.js 14. | `JavaScript` | ⭐ 0 · 🍴 0 |
+| [UniReportes](https://github.com/Kromilla/UniReportes) | Automated reporting engine for academic institutions. | `JavaScript` | ⭐ 0 · 🍴 0 |
+| [Flowers](https://github.com/Kromilla/Flowers) | Organic interaction engine with GPU-accelerated compositing. | `JavaScript` | ⭐ 0 · 🍴 0 |
+| [universal-downloader](https://github.com/Kromilla/universal-downloader) | Cross-platform media downloader CLI and API. | `TypeScript` | ⭐ 0 · 🍴 0 |
+| [Laboratorio-MLFLOW](https://github.com/Kromilla/Laboratorio-MLFLOW) | Reproducible ML pipelines with MLflow experiment tracking. | `Jupyter Notebook` | ⭐ 0 · 🍴 0 |
+| [zalando-fashion-mnist](https://github.com/Kromilla/zalando-fashion-mnist) | CNN con TensorFlow/Keras para clasificar las 10 categorias del Fashion-MNIST de Zalando. Bugs corregidos + EarlyStopping + Dropout. | `Jupyter Notebook` | ⭐ 0 · 🍴 0 |
+<!--END_SECTION:top-repos-->
+
+---
+<br />
+
 ## 🚀 Proven Impact (Featured Work)
 
 <table>

@@ -1,0 +1,45 @@
+name: Profile Section Updater
+description: Update marked sections in a GitHub profile README using Node.js scripts.
+branding:
+  icon: refresh-cw
+  color: green
+
+inputs:
+  script:
+    description: Relative path to the Node.js updater script inside the repository.
+    required: true
+  node-version:
+    description: Node.js version used to run the updater script.
+    required: false
+    default: '20'
+  commit-message:
+    description: Commit message used when README changes are detected.
+    required: false
+    default: '⚡ Update profile README section'
+  files:
+    description: Space-separated list of files to stage before commit.
+    required: false
+    default: README.md
+
+runs:
+  using: composite
+  steps:
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ inputs.node-version }}
+
+    - name: Run updater script
+      shell: bash
+      env:
+        GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        EXCLUDE_REPOS: ${{ github.repository }}
+      run: node ${{ inputs.script }}
+
+    - name: Commit and push changes
+      shell: bash
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add ${{ inputs.files }}
+        git diff --quiet && git diff --staged --quiet || (git commit -m "${{ inputs.commit-message }}" && git push)
