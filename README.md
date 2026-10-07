@@ -11,8 +11,11 @@
 ![Profile Header](Imagen/header_image.jpg)
 
 <div align="center">
-  <a href="https://kromillalabs.com">
+  <a href="https://kromilla-labs.vercel.app">
     <img src="https://img.shields.io/badge/Kromilla_Labs-Web-00FFC6?style=for-the-badge&logo=google-chrome&logoColor=black" height="30" />
+  </a>
+  <a href="https://www.instagram.com/kromilla_labs/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
   </a>
   <a href="mailto:carlos15.ci15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
