@@ -182,9 +182,9 @@ const carlos = {
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+- 🎉 Opened PR in [Kromilla/sismos-global](https://github.com/Kromilla/sismos-global)
 - 💪 Pushed 1 commit to [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla)
 - 💪 Pushed 1 commit to [Kromilla/clima-plataforma](https://github.com/Kromilla/clima-plataforma)
-- 💪 Pushed 1 commit to [Kromilla/sismos-global](https://github.com/Kromilla/sismos-global)
 <!--END_SECTION:activity-->
 
 ---
