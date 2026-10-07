@@ -42,7 +42,7 @@
 const carlos = {
   role: "Founder @ Kromilla Labs & Backend Engineer",
   location: "🇨🇴 Colombia",
-  enterprise: "https://kromillalabs.com",
+  enterprise: "https://kromilla-labs.vercel.app",
   core_competencies: [
     "Production AI Agent Systems", 
     "Event-Driven Automation", 
@@ -93,7 +93,7 @@ const carlos = {
 <table>
 <tr>
   <td width="50%" valign="top">
-    <h3 align="center">🏢 <a href="https://kromillalabs.com">Kromilla Labs</a></h3>
+    <h3 align="center">🏢 <a href="https://kromilla-labs.vercel.app">Kromilla Labs</a></h3>
     <p align="center"><strong>Production AI Agents Studio</strong></p>
     <p>
       Autonomous single-task AI agents that confirm appointments, qualify leads and structure operational records for clinics, real estate, and legal firms.
@@ -103,7 +103,7 @@ const carlos = {
       ✅ <strong>Enterprise Architecture</strong>: Serverless API, multi-channel alerts (Telegram/Discord) and zero data retention training.
     </p>
     <p align="center">
-      <a href="https://kromillalabs.com">
+      <a href="https://kromilla-labs.vercel.app">
         <img src="https://img.shields.io/badge/Live_Platform-00FFC6?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Live Platform"/>
       </a>
       <img src="https://img.shields.io/badge/Status-Private_Enterprise-blueviolet?style=for-the-badge" alt="Enterprise"/>
@@ -207,7 +207,7 @@ const carlos = {
 
 ---
 
-<sub>All systems operational. Crafted by <a href="https://github.com/Kromilla">Carlos Ibañez</a> — Founder @ <a href="https://kromillalabs.com">Kromilla Labs</a>.</sub>
+<sub>All systems operational. Crafted by <a href="https://github.com/Kromilla">Carlos Ibañez</a> — Founder @ <a href="https://kromilla-labs.vercel.app">Kromilla Labs</a>.</sub>
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=false&animate=true" width="100%" />
 </div>
