@@ -1,0 +1,27 @@
+name: Update Top Repositories
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Top Repositories
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Update top repositories section
+        uses: ./.github/actions/profile-section-updater
+        with:
+          script: .github/scripts/updateTopRepos.js
+          commit-message: "🔥 Update top repositories"
