@@ -188,7 +188,6 @@ const carlos = {
 - 💪 Pushed 1 commit to [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla)
 - 💪 Pushed 1 commit to [Kromilla/sismos-global](https://github.com/Kromilla/sismos-global)
 - 🔨 Created branch in [Kromilla/solucion-damisela](https://github.com/Kromilla/solucion-damisela)
-- 💪 Pushed 1 commit to [Kromilla/clima-plataforma](https://github.com/Kromilla/clima-plataforma)
 <!--END_SECTION:activity-->
 
 ---
