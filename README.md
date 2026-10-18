@@ -185,8 +185,8 @@ const carlos = {
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 💪 Pushed 1 commit to [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla)
 - 💪 Pushed 1 commit to [Kromilla/sismos-global](https://github.com/Kromilla/sismos-global)
+- 💪 Pushed 1 commit to [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla)
 - 🔨 Created branch in [Kromilla/solucion-damisela](https://github.com/Kromilla/solucion-damisela)
 <!--END_SECTION:activity-->
 
