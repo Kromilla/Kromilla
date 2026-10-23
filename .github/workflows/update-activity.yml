@@ -21,13 +21,7 @@ jobs:
           node-version: '20'
 
       - name: Update Activity
-        env:
-          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
-        run: node .github/scripts/updateActivity.js
-
-      - name: Commit and Push
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "⚡ Update Recent Activity" && git push)
+        uses: ./.github/actions/profile-section-updater
+        with:
+          script: .github/scripts/updateActivity.js
+          commit-message: "⚡ Update Recent Activity"
