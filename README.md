@@ -181,10 +181,8 @@ const carlos = {
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🔨 Created branch in [Kromilla/metalito-metrics-dashboard](https://github.com/Kromilla/metalito-metrics-dashboard)
-- 💪 Pushed 1 commit to [Kromilla/sismos-global](https://github.com/Kromilla/sismos-global)
+- 🐛 Closed issue in [Kromilla/sismos-global](https://github.com/Kromilla/sismos-global)
 - 💪 Pushed 1 commit to [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla)
-- 🔨 Created branch in [Kromilla/solucion-damisela](https://github.com/Kromilla/solucion-damisela)
 <!--END_SECTION:activity-->
 
 ---
