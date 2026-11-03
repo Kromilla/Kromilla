@@ -175,10 +175,6 @@ const carlos = {
 
 <br />
 
-<img src="https://ghchart.rshah.org/00FFC6/Kromilla" alt="Contribution Graph" width="100%"/>
-
-<br />
-
 <img src="https://raw.githubusercontent.com/Kromilla/Kromilla/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 
 </div>
