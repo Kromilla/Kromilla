@@ -171,11 +171,11 @@ const carlos = {
 
 <img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
 <img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
-<img src="./profile/streak.svg" alt="GitHub Streak" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Kromilla&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165"/>
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kromilla&custom_title=Code+Frequency&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area_color=00FFC6&area=true&hide_border=true&title_color=00FFC6" alt="Contribution Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/00FFC6/Kromilla" alt="Contribution Graph" width="100%"/>
 
 <br />
 
