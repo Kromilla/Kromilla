@@ -9,7 +9,13 @@ const END_MARKER = '<!--END_SECTION:activity-->';
 
 async function fetchActivity() {
   try {
-    const response = await fetch(`https://api.github.com/users/${USERNAME}/events/public`);
+    const response = await fetch(`https://api.github.com/users/${USERNAME}/events/public`, {
+      headers: {
+        Accept: 'application/vnd.github+json',
+        'User-Agent': 'update-activity',
+        ...(process.env.GITHUB_TOKEN ? { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` } : {}),
+      },
+    });
     if (!response.ok) throw new Error(`Failed to fetch events: ${response.statusText}`);
     return response.json();
   } catch (error) {

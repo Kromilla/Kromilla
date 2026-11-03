@@ -23,6 +23,7 @@ jobs:
       - name: Update Activity
         env:
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node .github/scripts/updateActivity.js
 
       - name: Commit and Push
