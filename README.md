@@ -181,7 +181,7 @@ const carlos = {
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🐛 Closed issue in [Kromilla/sismos-global](https://github.com/Kromilla/sismos-global)
+- ⭐ Starred [Kromilla/sismos-global](https://github.com/Kromilla/sismos-global)
 - 💪 Pushed 1 commit to [Kromilla/Kromilla](https://github.com/Kromilla/Kromilla)
 <!--END_SECTION:activity-->
 
