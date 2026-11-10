@@ -181,7 +181,7 @@ const carlos = {
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🎉 Merged PR in [Kromilla/boxboxcuriosos-media](https://github.com/Kromilla/boxboxcuriosos-media)
+- 💪 Pushed 1 commit to [Kromilla/boxboxcuriosos-media](https://github.com/Kromilla/boxboxcuriosos-media)
 - 💪 Pushed 1 commit to [Kromilla/sismos-global](https://github.com/Kromilla/sismos-global)
 - ⭐ Starred [janzsh/portfolio](https://github.com/janzsh/portfolio)
 - ⭐ Starred [janzsh/janzsh](https://github.com/janzsh/janzsh)
