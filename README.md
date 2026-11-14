@@ -182,8 +182,7 @@ const carlos = {
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 - 💪 Pushed 1 commit to [Kromilla/proyecto-final](https://github.com/Kromilla/proyecto-final)
-- 🎉 Merged PR in [Kromilla/boxboxcuriosos-media](https://github.com/Kromilla/boxboxcuriosos-media)
-- 💪 Pushed 1 commit to [Kromilla/sismos-global](https://github.com/Kromilla/sismos-global)
+- 💪 Pushed 1 commit to [Kromilla/boxboxcuriosos-media](https://github.com/Kromilla/boxboxcuriosos-media)
 <!--END_SECTION:activity-->
 
 ---
