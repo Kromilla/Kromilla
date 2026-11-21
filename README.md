@@ -181,6 +181,7 @@ const carlos = {
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+- 💪 Pushed 1 commit to [Kromilla/calculadora-jacobi-gauss-seidel](https://github.com/Kromilla/calculadora-jacobi-gauss-seidel)
 - 🎉 Merged PR in [Kromilla/boxboxcuriosos-media](https://github.com/Kromilla/boxboxcuriosos-media)
 - ⭐ Starred [Kromilla/github-profile-toolkit](https://github.com/Kromilla/github-profile-toolkit)
 - 💪 Pushed 1 commit to [Kromilla/proyecto-final](https://github.com/Kromilla/proyecto-final)
