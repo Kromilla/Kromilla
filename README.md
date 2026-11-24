@@ -181,9 +181,9 @@ const carlos = {
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🎉 Merged PR in [Kromilla/boxboxcuriosos-media](https://github.com/Kromilla/boxboxcuriosos-media)
-- 🔨 Created branch in [Kromilla/calculadora-jacobi-gauss-seidel](https://github.com/Kromilla/calculadora-jacobi-gauss-seidel)
+- 💪 Pushed 1 commit to [Kromilla/boxboxcuriosos-media](https://github.com/Kromilla/boxboxcuriosos-media)
 - 💪 Pushed 1 commit to [Kromilla/practica-2-analisis-numerico](https://github.com/Kromilla/practica-2-analisis-numerico)
+- 🔨 Created branch in [Kromilla/calculadora-jacobi-gauss-seidel](https://github.com/Kromilla/calculadora-jacobi-gauss-seidel)
 - ⭐ Starred [Kromilla/github-profile-toolkit](https://github.com/Kromilla/github-profile-toolkit)
 - 💪 Pushed 1 commit to [Kromilla/proyecto-final](https://github.com/Kromilla/proyecto-final)
 <!--END_SECTION:activity-->
